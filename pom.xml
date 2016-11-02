@@ -59,7 +59,6 @@
 			<artifactId>spring-data-redis</artifactId>
 			<version>1.7.3.RELEASE</version>
 		</dependency>
-
 	</dependencies>
 
 	<build>
