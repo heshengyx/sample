@@ -36,7 +36,6 @@
 			<artifactId>netty-all</artifactId>
 			<version>4.0.23.Final</version>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/com.google.protobuf/protobuf-java -->
 		<dependency>
 			<groupId>com.google.protobuf</groupId>
 			<artifactId>protobuf-java</artifactId>
